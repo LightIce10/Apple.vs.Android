@@ -1,0 +1,29 @@
+html {
+  background-color: #cabfb6;
+}
+
+body {
+  width: 600px;
+  margin: auto;
+  padding: 0px 100px;
+  background: white;
+}
+
+span {
+  font-style: bold;
+}
+
+.An {
+  background-color: #a4c93b;
+  font-size: 20px;
+}
+
+.Ap {
+  background-color: #b6bcca;
+  font-size: 20px;
+}
+
+.ex {
+  background-color: #c9793b;
+  text-align: center;
+}
