@@ -7,23 +7,41 @@ body {
   margin: auto;
   padding: 0px 100px;
   background: white;
+  padding-bottom: 50px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 15.3px;
 }
 
-span {
-  font-style: bold;
+h2 {
+  font-family: "Proza Libre", sans-serif;
 }
 
 .An {
   background-color: #a4c93b;
   font-size: 20px;
+  border: none;
+  padding: 5px 25px 5px 25px;
+  border-radius: 2px;
 }
 
 .Ap {
   background-color: #b6bcca;
   font-size: 20px;
+  border: none;
+  padding: 5px 25px 5px 25px;
+  border-radius: 2px;
 }
 
 .ex {
   background-color: #c9793b;
+  border: none;
+  padding: 12px 30px 12px 30px;
+  border-radius: 5px;
+  font-family: "Open Sans", sans-serif;
+  margin-bottom: 15px;
+  font-size: 14.5px;
+}
+
+.b {
   text-align: center;
 }
